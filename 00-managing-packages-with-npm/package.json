@@ -10,5 +10,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Yahaya Aluke",
+	"description": "A tutorial for setting up a package.json file",
+	"keywords": ["freecodecamp", "npm", "nodejs"],
+	"license": "MIT"
 }
